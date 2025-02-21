@@ -1,13 +1,17 @@
 {
-  "name": "react1",
+  "name": "stg educity",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://github.com/CODEWITHSTG/Educity",
+
+  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+    
   },
   "dependencies": {
     "react": "^18.3.1",
